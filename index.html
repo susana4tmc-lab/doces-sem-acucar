@@ -1,4 +1,21 @@
+<!doctype html>
+<html lang="pt">
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1, viewport-fit=cover">
 <title>Doces sem açúcar</title>
+<meta name="description" content="Receitas doces sem açúcar para as famílias da EB João Villaret. Dia da Alimentação 2026, Saúde Escolar UCC Loures.">
+<meta name="theme-color" content="#2F8B89">
+<link rel="icon" type="image/png" sizes="32x32" href="icons/favicon-32.png">
+<link rel="icon" type="image/png" sizes="48x48" href="icons/favicon-48.png">
+<link rel="apple-touch-icon" href="icons/apple-touch-icon.png">
+<link rel="manifest" href="manifest.webmanifest">
+<meta name="apple-mobile-web-app-title" content="Doces">
+<meta name="mobile-web-app-capable" content="yes">
+<meta name="apple-mobile-web-app-capable" content="yes">
+<meta name="apple-mobile-web-app-status-bar-style" content="default">
+<meta property="og:title" content="Doces sem açúcar — Receitas para a família">
+<meta property="og:description" content="Receitas doces sem açúcar da EB João Villaret.">
+<meta property="og:image" content="img/capa.jpg">
 <meta name="claude:viewport-fit-sides" content="cover">
 <link rel="preconnect" href="https://fonts.googleapis.com">
 <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
@@ -21,7 +38,11 @@
   --teal: #5FC2BF; --cherry: #F0705F; --mustard: #F0B95A; --line: #4A3826; --chip: #3A2B1D; --lift: 55%; color-scheme: dark }
 
 * { box-sizing: border-box; }
-body { background: var(--paper); color: var(--ink); font-family: var(--body); font-size: 17px; line-height: 1.55;
+:root { padding-top: env(safe-area-inset-top, 0px); padding-bottom: env(safe-area-inset-bottom, 0px); }
+html { color-scheme: light; }
+img { max-width: 100%; }
+[hidden] { display: none !important; }
+body { margin: 0; background: var(--paper); color: var(--ink); font-family: var(--body); font-size: 17px; line-height: 1.55;
   -webkit-text-size-adjust: 100%; }
 body::before { content: ""; position: fixed; inset: 0 0 auto; height: env(safe-area-inset-top, 0px); z-index: 10; background: var(--teal); }
 .wrap { max-width: 760px; margin: 0 auto; padding-left: max(16px, env(safe-area-inset-left, 0px)); padding-right: max(16px, env(safe-area-inset-right, 0px)); }

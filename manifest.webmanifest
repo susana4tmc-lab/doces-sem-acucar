@@ -1,0 +1,16 @@
+{
+  "name": "Doces sem açúcar — Receitas para a família",
+  "short_name": "Doces",
+  "description": "Receitas doces sem açúcar da EB João Villaret (Dia da Alimentação 2026, Saúde Escolar UCC Loures).",
+  "lang": "pt-PT",
+  "start_url": ".",
+  "scope": ".",
+  "display": "standalone",
+  "background_color": "#FFF8EC",
+  "theme_color": "#2F8B89",
+  "icons": [
+    { "src": "icons/icon-192.png", "sizes": "192x192", "type": "image/png", "purpose": "any" },
+    { "src": "icons/icon-512.png", "sizes": "512x512", "type": "image/png", "purpose": "any" },
+    { "src": "icons/icon-512.png", "sizes": "512x512", "type": "image/png", "purpose": "maskable" }
+  ]
+}

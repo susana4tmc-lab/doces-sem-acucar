@@ -29,6 +29,7 @@ Regra combinada: **sempre que o livro muda, atualizam-se as três versões** (A4
    python3 gen_web.py <pasta> livro.md ../index.html
    ```
    Para o site, copiar também as ilustrações novas para `../img/` em JPG (1200 px, qualidade 84).
+   O ícone da app (queque retro) gera-se com `python3 icone.py <pasta> ../icons`; o `manifest.webmanifest` na raiz dá o nome "Doces" e as cores quando os pais põem o site no ecrã do telemóvel.
 5. Fazer commit e push: o Vercel publica sozinho.
 
 Verificar sempre: cada receita cabe numa página no A4 (`.long` reduz a imagem quando há mais de 9 ingredientes);
