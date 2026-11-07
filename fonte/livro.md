@@ -24,6 +24,7 @@ Oct 20, 2026 · @Susana
    - Tiramisu de chia
    - Bolo de chocolate e feijão preto
    - Bolo Red Velvet
+   - Salame de chocolate
 6. Dicas para habituar o paladar
 7. Alergias e intolerâncias
 
@@ -104,6 +105,19 @@ Atenção: o mel não deve ser dado a bebés com menos de 1 ano.
 | Canela | Uma pitada a uma colher de chá | Quase tudo |
 | Baunilha | Vagem ou extrato puro | Bolos, cremes, iogurtes |
 | Coco ralado sem açúcar | Na massa ou por cima | Bolachas, bolos |
+
+### Ler o rótulo: o que escolher
+
+Alguns ingredientes "saudáveis" trazem açúcar ou gorduras de pior qualidade escondidos. Na dúvida, escolha o produto com a lista de ingredientes mais curta.
+
+| Ingrediente | O que procurar no rótulo |
+| --- | --- |
+| Bebida vegetal | Sem açúcar e sem óleos acrescentados (muitas levam óleo de girassol ou de colza); poucos ingredientes. Também se faz em casa, só com aveia e água |
+| Manteiga de amendoim | 100% amendoim, sem açúcar nem óleo de palma |
+| Chocolate | Negro, com 70% de cacau ou mais |
+| Cacau em pó | 100% cacau, sem açúcar |
+| Arroz tufado, flocos de aveia | Simples, sem mel, açúcar ou chocolate |
+| Leite de coco | Ótimo em algumas receitas, mas muito rico em gordura saturada: não substitui o leite no dia a dia |
 
 ### E os adoçantes?
 
@@ -505,6 +519,37 @@ O clássico americano, sem corantes nem açúcar: o vermelho vem da beterraba e 
 
 *Adaptado da receita do Francisco Freitas, 6.º D.*
 
+### Salame de chocolate
+
+&#91;image: Ilustração do salame de chocolate\]
+
+Não vai ao forno e adoça-se só com tâmaras e chocolate negro. As crianças ajudam a enrolar.
+
+**Tempo:** 15 min + 2 h no frigorífico · **Forno:** não precisa · **Doses:** cerca de 20 fatias
+
+**Ingredientes**
+
+- 150 g de chocolate negro (70% cacau ou mais)
+- 2 colheres de sopa de manteiga de amendoim 100%
+- 2 colheres de sopa de bebida vegetal ou leite
+- 5 tâmaras sem caroço, picadas
+- 80 g de nozes ou amêndoas picadas
+- 80 g de arroz tufado sem açúcar
+- 2 colheres de sopa de cacau 100%, para envolver
+
+**Preparação**
+
+1. Partir o chocolate e derretê-lo em banho-maria.
+2. Juntar a manteiga de amendoim e a bebida vegetal e mexer até ficar liso.
+3. Retirar do lume e envolver as tâmaras, os frutos secos e o arroz tufado.
+4. Deitar sobre papel vegetal, enrolar em forma de salame e torcer as pontas como um rebuçado.
+5. Levar ao frigorífico pelo menos 2 horas, até ficar firme.
+6. Desembrulhar, passar pelo cacau e cortar às rodelas.
+
+**Dica:** o banho-maria fica para um adulto; as crianças misturam e enrolam. Embrulhado em papel vegetal e atado com fio, é uma boa prenda para oferecer.
+
+*Inspirado numa receita publicada no The News.*
+
 ## Dicas para habituar o paladar
 
 1. Reduzir aos poucos: o paladar adapta-se em poucas semanas.
@@ -559,6 +604,7 @@ São das alergias mais frequentes e podem ser graves. Nas receitas em que são d
 | Tiramisu de chia | — | Sim | — | — |
 | Bolo de chocolate e feijão preto | — | — | Sim | — |
 | Bolo Red Velvet | Sim (espelta) | Sim (natas) | Sim | — |
+| Salame de chocolate | Ver rótulo | Ver rótulo | — | Sim (e amendoim) |
 
 \* Sem glúten apenas se a aveia for certificada "sem glúten".
 

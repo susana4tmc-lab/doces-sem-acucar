@@ -1,4 +1,4 @@
-"""Monta o livro 'Doces sem açúcar' em PDF A4 (ou A5 com o 4.º argumento 'a5') a partir do markdown exportado do documento."""
+"""Monta o livro 'Doces sem açúcar' em PDF (A5? não: A4) a partir do markdown exportado."""
 import re, sys, html
 import markdown
 from weasyprint import HTML
@@ -22,6 +22,7 @@ IMAGES = {
     "Tiramisu": ("tiramisu-retro.png", "#6B4A3A"),
     "Bolo de chocolate e feijão": ("feijao-retro.png", "#556B2F"),
     "Bolo Red Velvet": ("redvelvet-retro.png", "#C24A6A"),
+    "Salame": ("salame-retro.png", "#2F6B4F"),
 }
 
 
@@ -243,9 +244,11 @@ section.recipe { break-before: left; }
 
 NOTES = ""
 if A5:
+    import os
+    _n = int(os.environ.get("NOTAS", "1"))  # páginas de notas: ajustar para o total do A5 ser múltiplo de 4
     NOTES = ('<section class="notes"><h2>As nossas notas</h2>'
              '<p>Uma receita sem açúcar da nossa família, ou as nossas adaptações:</p>'
-             + '<div class="line"></div>' * 17 + '</section>')
+             + '<div class="line"></div>' * 17 + '</section>') + ('<section class="notes"><div class="line"></div>' + '<div class="line"></div>' * 19 + '</section>') * (_n - 1)
 
 doc = f'''<!doctype html><html lang="pt"><head><meta charset="utf-8"><title>Doces sem açúcar</title><style>{CSS}</style></head>
 <body>

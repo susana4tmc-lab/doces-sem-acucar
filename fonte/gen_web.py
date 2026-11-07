@@ -14,6 +14,7 @@ IMG = [
     ("Muffins", "muffins", "#4F9FC4"), ("Ahhh", "nada", "#8C5A3C"),
     ("Tiramisu", "tiramisu", "#6B4A3A"), ("Bolo de chocolate e feijão", "feijao", "#556B2F"),
     ("Bolo Red Velvet", "redvelvet", "#C24A6A"),
+    ("Salame", "salame", "#2F6B4F"),
 ]
 
 
