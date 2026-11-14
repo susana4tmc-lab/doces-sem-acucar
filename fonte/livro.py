@@ -23,6 +23,7 @@ IMAGES = {
     "Bolo de chocolate e feijão": ("feijao-retro.png", "#556B2F"),
     "Bolo Red Velvet": ("redvelvet-retro.png", "#C24A6A"),
     "Salame": ("salame-retro.png", "#2F6B4F"),
+    "Doce de abóbora": ("abobora-retro.png", "#C8642A"),
 }
 
 
@@ -86,7 +87,7 @@ def recipe_page(title, body):
     if meta_lines:
         items = [i.strip() for i in meta_lines[0].split("·")]
         meta = "".join(f'<span class="pill">{markdown.markdown(i)[3:-4]}</span>' for i in items)
-    longcls = " long" if ingr.count("\n- ") + 1 > 9 else ""
+    longcls = " long" if ingr.count("\n- ") + 1 > 9 or len(body) > 1400 else ""
     return f'''<section class="recipe{longcls}" id="{sid}" style="--accent:{color}">
   <h3 class="rtitle">{html.escape(title)}</h3>
   {f'<img class="hero" src="file://{S}/{img}">' if img else ''}

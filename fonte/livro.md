@@ -25,6 +25,7 @@ Oct 20, 2026 · @Susana
    - Bolo de chocolate e feijão preto
    - Bolo Red Velvet
    - Salame de chocolate
+   - Doce de abóbora, maçã e laranja
 6. Dicas para habituar o paladar
 7. Alergias e intolerâncias
 
@@ -550,6 +551,37 @@ Não vai ao forno e adoça-se só com tâmaras e chocolate negro. As crianças a
 
 *Inspirado numa receita publicada no The News.*
 
+### Doce de abóbora, maçã e laranja
+
+&#91;image: Ilustração do doce de abóbora, maçã e laranja\]
+
+Um doce para barrar adoçado só com a abóbora e a maçã. Faz-se num tacho, sem Bimby.
+
+**Tempo:** 15 min + 50 min ao lume · **Forno:** não precisa · **Doses:** 2 frascos médios
+
+**Ingredientes**
+
+- 1 kg de abóbora-menina limpa, em cubos pequenos
+- 200 g de maçã descascada, em cubos (cerca de 2)
+- 2 colheres de sopa de sumo de laranja
+- Casca de 1 laranja (só a parte cor de laranja)
+- 1 pau de canela
+- 1 pitada de sal
+- 1 colher de chá de canela em pó (opcional)
+
+**Preparação**
+
+1. Pôr tudo, menos a canela em pó, num tacho de fundo grosso com 3 colheres de sopa de água.
+2. Tapar e cozinhar em lume brando 15 minutos, até a abóbora largar água.
+3. Destapar e cozinhar mais 20 a 25 minutos, mexendo de vez em quando, até estar bem macio.
+4. Retirar a casca de laranja e o pau de canela. Esmagar com um garfo, ou com a varinha mágica para ficar liso.
+5. Deixar engrossar 10 a 15 minutos em lume brando, sempre a mexer, até se ver o fundo do tacho. Juntar a canela em pó, se quiser.
+6. Deitar em frascos bem lavados, deixar arrefecer e guardar no frigorífico.
+
+**Dica:** sem açúcar, este doce não se conserva como uma compota: dura cerca de 1 semana no frigorífico, ou pode congelar-se. Fica bem com iogurte natural, em torradas ou nas panquecas. No fim salpica: essa parte é para um adulto.
+
+*Receita para Bimby de Cláudia Martins, partilhada pela professora Sílvia Pereira e adaptada para cozinhar no tacho.*
+
 ## Dicas para habituar o paladar
 
 1. Reduzir aos poucos: o paladar adapta-se em poucas semanas.
@@ -605,6 +637,7 @@ São das alergias mais frequentes e podem ser graves. Nas receitas em que são d
 | Bolo de chocolate e feijão preto | — | — | Sim | — |
 | Bolo Red Velvet | Sim (espelta) | Sim (natas) | Sim | — |
 | Salame de chocolate | Ver rótulo | Ver rótulo | — | Sim (e amendoim) |
+| Doce de abóbora, maçã e laranja | — | — | — | — |
 
 \* Sem glúten apenas se a aveia for certificada "sem glúten".
 
