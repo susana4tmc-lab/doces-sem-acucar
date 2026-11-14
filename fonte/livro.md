@@ -438,8 +438,8 @@ Uma sobremesa fresca, inspirada no tiramisu, sem forno e sem açúcar refinado. 
 
 - 500 g de iogurte grego natural, sem açúcar
 - 4 colheres de sopa de sementes de chia
-- 1 chávena de café expresso forte, já frio (descafeinado para as crianças)
-- 1 colher de sopa de mel ou de xarope de tâmara
+- 1 chávena de café expresso forte, já frio (a gosto: mais café para um sabor mais intenso; descafeinado para as crianças)
+- 1 colher de sopa de mel ou de xarope de tâmara (a gosto: um pouco mais para quem prefere mais doce)
 - Cacau em pó 100%, sem açúcar, para polvilhar
 
 **Preparação**
